@@ -1,0 +1,26 @@
+.actions li {
+	list-style-type: none;
+	display: inline-block;
+	padding-left: 5px;
+	padding-right: 5px;
+}
+.polluant-list .actions li a{
+		color: #fff;
+}
+.colorpicker-2x{
+	width: 300px;
+	height: 300px;
+}
+    .colorpicker-2x .colorpicker-saturation {
+        width: 200px;
+        height: 200px;
+    }
+    .colorpicker-2x .colorpicker-hue,
+    .colorpicker-2x .colorpicker-alpha {
+        width: 30px;
+        height: 200px;
+    }
+    .colorpicker-2x .colorpicker-color,
+    .colorpicker-2x .colorpicker-color div{
+        height: 30px;
+    }
